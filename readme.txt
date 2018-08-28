@@ -11,4 +11,6 @@ Creating a new branch is quick AND simple.
 >>>>>>> featurel
 Creating a new branch is quick and simple
 change the txt
+Git is a free software ...
+Git is a free software ...
 
